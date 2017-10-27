@@ -19,6 +19,6 @@ solutions to scattering problems.
 
 ## Content
 
-- Solving_the_Schrodinger_Equation_Numerically.ipynb
-- Harmonic Oscillator.ipynb
-- TimePropagation_of_WF.ipynb
+- [Solving_the_Schrodinger_Equation_Numerically.ipynb](https://github.com/mholtrop/QMPython/blob/master/Solving_the_Schrodinger_Equation_Numerically.ipynb)
+- [Harmonic Oscillator.ipynb](https://github.com/mholtrop/QMPython/blob/master/Harmonic%20Oscillator.ipynb)
+- [TimePropagation_of_WF.ipynb](https://github.com/mholtrop/QMPython/blob/master/TimePropagation_of_WF.ipynb)
